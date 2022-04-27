@@ -3,7 +3,7 @@ Our focus is to target the detection of DDoS attacks in the area of cloud securi
 Our objective is to combine the knowledge from security analysis and machine learning, to reproduce famous papers in this area and based on those reproduced algorithms, potentially develop innovative ideas for DDoS attacks on cloud computing platforms.
 
 ## Dataset
-### [NSL-KDD]
+### NSL-KDD
 You should download the dataset from http://205.174.165.80/CICDataset/NSL-KDD/
 ## Packages Installation
 numpy, pandas, sklearn, matplotlib, seaborn, xgboost, scipy, pycaret, pytorch, itertools
@@ -18,7 +18,7 @@ Please click on https://pytorch.org/get-started/locally/
 
 ## Instruction  
 To run the program on wechat, please follow the following instructions:
-1. Downdoal dataset and edit corresponding path in .ipynb file to retrieve the data
+1. Download dataset and edit corresponding path in .ipynb file to retrieve the data
 2. Run the `main.ipynb` on Jupyter  
 
 
@@ -26,10 +26,8 @@ To run the program on wechat, please follow the following instructions:
 
 ***Special thanks*** :pray: for the advice from  
 
-*[Prof.Soudeh Ghorbani](http://soudeh.net/#home) 
-(PI, Foundational Networked Systems Lab
-Assistant Professor, Computer Science, Johns Hopkins
-Founding Director, Introduction to Computing Research)*  
+*[Prof. Soudeh Ghorbani](http://soudeh.net/#home) 
+(PI, Foundational Networked Systems Lab | Assistant Professor, Computer Science, Johns Hopkins | Founding Director, Introduction to Computing Research)*  
 
 
 If you got any enquiries or suggestions, We're all ears :sunglasses:  
