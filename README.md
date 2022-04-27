@@ -1,5 +1,6 @@
 # Cloud-DDoS-Attack-Detection-with-ML-Methods
 Our focus is to target the detection of DDoS attacks in the area of cloud security, since DDoS attacks are major security risks in a cloud computing environment where resources are shared by many users. A distributed denial-of-service (DDoS) attack is a malicious attempt to disrupt the normal traffic of a targeted server, service or network by overwhelming the target or its surrounding infrastructure with a flood of Internet traffic. 
+
 Our objective is to combine the knowledge from security analysis and machine learning, to reproduce famous papers in this area and based on those reproduced algorithms, potentially develop innovative ideas for DDoS attacks on cloud computing platforms.
 
 ## Dataset
